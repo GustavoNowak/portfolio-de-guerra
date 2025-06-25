@@ -3,6 +3,9 @@ node_modules
 
 # Arquivos de Build e Dados Gerados
 *.csv
+*.png
+.ipynb_checkpoints
+/.ipynb_checkpoints
 
 # Logs
 npm-debug.log*
